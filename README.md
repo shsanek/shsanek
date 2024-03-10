@@ -1,8 +1,5 @@
-# Shipin Alexandr
+#### Hi welcome to my github. I am a swift developer. Below you can find interesting projects
 
-Hi welcome to my github. I am a swift developer. Below you can find interesting projects
-
-## Projects
 
 ### MemesEditor [App Store](https://apps.apple.com/us/app/memes-editor/id6461216573)
 
@@ -18,9 +15,9 @@ A game for creating logic circuits. The code will be published later.
 
 ### GameSwiftEngine [GitHub](https://github.com/shsanek/GameSwiftEngine)
 
-<img src="https://raw.githubusercontent.com/shsanek/shsanek/main/gse1.png" alt="INITIAL" width="300"/> <img src="https://raw.githubusercontent.com/shsanek/shsanek/main/gse2.png" alt="CHATLIST" width="300"/> 
+<img src="https://raw.githubusercontent.com/shsanek/shsanek/main/gse1.png" alt="INITIAL" width="300"/> <img src="https://raw.githubusercontent.com/shsanek/shsanek/main/gse2.png" alt="CHATLIST" width="200"/> <img src="https://raw.githubusercontent.com/shsanek/shsanek/main/gse3.png" alt="CHATLIST" width="200"/>
 
-Small 3D engine with support for skeletal animation and shadowmap. In development support for WAD files (Doom 1, 2) and grass on mesh-shaders.
+Simple 3d engine with built-in editor. Supported for skeletal animation and shadowmap. In development support for WAD files (Doom 1, 2) and grass on mesh-shaders.
 
 ### FunParticle [GitHub](https://github.com/shsanek/GameSwiftEngine)
 
