@@ -1,8 +1,5 @@
-# Shipin Alexandr
+#### Hi welcome to my github. I am a swift developer. Below you can find interesting projects
 
-Hi welcome to my github. I am a swift developer. Below you can find interesting projects
-
-## Projects
 
 ### MemesEditor [App Store](https://apps.apple.com/us/app/memes-editor/id6461216573)
 
