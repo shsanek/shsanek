@@ -1,4 +1,4 @@
-# Hi welcome to my github. I am a swift developer. Below you can find interesting projects
+Hi welcome to my github. I am a swift developer. Below you can find interesting projects
 
 ## Projects
 
