@@ -15,7 +15,7 @@ A game for creating logic circuits. The code will be published later.
 
 ### GameSwiftEngine [GitHub](https://github.com/shsanek/GameSwiftEngine)
 
-<img src="https://raw.githubusercontent.com/shsanek/shsanek/main/gse1.png" alt="INITIAL" width="300"/> <img src="https://raw.githubusercontent.com/shsanek/shsanek/main/gse2.png" alt="CHATLIST" width="200"/> <img src="https://raw.githubusercontent.com/shsanek/shsanek/main/gse3.jpg" alt="CHATLIST" width="200"/>
+<img src="https://raw.githubusercontent.com/shsanek/shsanek/main/gse1.png" alt="INITIAL" width="300"/> <img src="https://raw.githubusercontent.com/shsanek/shsanek/main/gse2.png" alt="CHATLIST" width="300"/>
 
 Simple 3d engine with built-in editor. Supported for skeletal animation and shadowmap. In development support for WAD files (Doom 1, 2) and grass on mesh-shaders.
 
