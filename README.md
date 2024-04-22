@@ -1,4 +1,4 @@
-#### Hi welcome to my github. I am a swift developer. Below you can find interesting projects
+#### Hi welcome to my github. I am developing in the `swift` language.. Below you can find interesting projects
 
 
 ### MemesEditor [App Store](https://apps.apple.com/us/app/memes-editor/id6461216573)
@@ -13,13 +13,25 @@ Video editor with the function of sending stickers to Telegram. The code will be
 
 A game for creating logic circuits. The code will be published later.
 
+### SwiftEverydayShader [GitHub](https://github.com/shsanek/SwiftEverydayShader)
+
+<img src="https://raw.githubusercontent.com/shsanek/shsanek/main/SES1.png" alt="INITIAL" width="200"/> <img src="https://raw.githubusercontent.com/shsanek/shsanek/main/SES2.png" alt="CHATLIST" width="200"/> <img src="https://raw.githubusercontent.com/shsanek/shsanek/main/SES3.png" alt="CHATLIST" width="200"/> 
+
+A wrapper for convenient work with shaders. Allows you to quickly experiment with different types of shaders.
+
 ### GameSwiftEngine [GitHub](https://github.com/shsanek/GameSwiftEngine)
 
-<img src="https://raw.githubusercontent.com/shsanek/shsanek/main/gse1.png" alt="INITIAL" width="300"/> <img src="https://raw.githubusercontent.com/shsanek/shsanek/main/gse2.png" alt="CHATLIST" width="200"/> <img src="https://raw.githubusercontent.com/shsanek/shsanek/main/gse3.png" alt="CHATLIST" width="200"/>
+<img src="https://raw.githubusercontent.com/shsanek/shsanek/main/gse1.png" alt="INITIAL" width="300"/> <img src="https://raw.githubusercontent.com/shsanek/shsanek/main/gse2.png" alt="CHATLIST" width="300"/>
 
 Simple 3d engine with built-in editor. Supported for skeletal animation and shadowmap. In development support for WAD files (Doom 1, 2) and grass on mesh-shaders.
 
-### FunParticle [GitHub](https://github.com/shsanek/GameSwiftEngine)
+### BFASM [GitHub](https://github.com/shsanek/BFASM)
+
+<img src="https://github.com/user-attachments/assets/a4c9a7e7-d7ab-4ee1-878a-05be4c025ab0" alt="INITIAL" width="200"/>
+
+This is a project to generate Brainfuck code to execute BFASM assembler on a 16-bit RAM virtual machine. The virtual machine works with 2-byte cells (16 bits). There are 2^16 cells or 128KB of memory available for addressing. The machine has 6 general purpose registers (r0-r5), stack operations, conditional jump commands and basic integer 16-bit arithmetic commands. The project has an entertaining and educational purpose.
+
+### FunParticle [GitHub](https://github.com/shsanek/FunParticle)
 
 <img src="https://raw.githubusercontent.com/shsanek/shsanek/main/partical.gif" alt="INITIAL" width="200"/> <img src="https://raw.githubusercontent.com/shsanek/shsanek/main/partical.png" alt="CHATLIST" width="400"/> 
 
@@ -34,6 +46,8 @@ Chat server and client
    - [Server at GitHub](https://github.com/shsanek/Pisyarik)
 
 ### SwiftTelegramApi [GitHub](https://github.com/shsanek/SwiftTelegramApi)
+
+<img src="https://github.com/user-attachments/assets/27e179b5-4db2-4ad7-9ca8-d041c992564e" alt="INITIAL" width="200"/>
 
 Generated API for Telegram bots in Swift.
 
