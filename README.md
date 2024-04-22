@@ -13,6 +13,12 @@ Video editor with the function of sending stickers to Telegram. The code will be
 
 A game for creating logic circuits. The code will be published later.
 
+### SwiftEverydayShader [GitHub](https://github.com/shsanek/SwiftEverydayShader)
+
+<img src="https://raw.githubusercontent.com/shsanek/shsanek/main/SES1.png" alt="INITIAL" width="200"/> <img src="https://raw.githubusercontent.com/shsanek/shsanek/main/SES2.png" alt="CHATLIST" width="200"/> <img src="https://raw.githubusercontent.com/shsanek/shsanek/main/SES3.png" alt="CHATLIST" width="200"/> 
+
+A wrapper for convenient work with shaders. Allows you to quickly experiment with different types of shaders.
+
 ### GameSwiftEngine [GitHub](https://github.com/shsanek/GameSwiftEngine)
 
 <img src="https://raw.githubusercontent.com/shsanek/shsanek/main/gse1.png" alt="INITIAL" width="300"/> <img src="https://raw.githubusercontent.com/shsanek/shsanek/main/gse2.png" alt="CHATLIST" width="200"/> <img src="https://raw.githubusercontent.com/shsanek/shsanek/main/gse3.png" alt="CHATLIST" width="200"/>
