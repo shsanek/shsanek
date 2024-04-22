@@ -21,11 +21,11 @@ A wrapper for convenient work with shaders. Allows you to quickly experiment wit
 
 ### GameSwiftEngine [GitHub](https://github.com/shsanek/GameSwiftEngine)
 
-<img src="https://raw.githubusercontent.com/shsanek/shsanek/main/gse1.png" alt="INITIAL" width="300"/> <img src="https://raw.githubusercontent.com/shsanek/shsanek/main/gse2.png" alt="CHATLIST" width="200"/> <img src="https://raw.githubusercontent.com/shsanek/shsanek/main/gse3.png" alt="CHATLIST" width="200"/>
+<img src="https://raw.githubusercontent.com/shsanek/shsanek/main/gse1.png" alt="INITIAL" width="300"/> <img src="https://raw.githubusercontent.com/shsanek/shsanek/main/gse2.png" alt="CHATLIST" width="300"/>
 
 Simple 3d engine with built-in editor. Supported for skeletal animation and shadowmap. In development support for WAD files (Doom 1, 2) and grass on mesh-shaders.
 
-### FunParticle [GitHub](https://github.com/shsanek/GameSwiftEngine)
+### FunParticle [GitHub](https://github.com/shsanek/FunParticle)
 
 <img src="https://raw.githubusercontent.com/shsanek/shsanek/main/partical.gif" alt="INITIAL" width="200"/> <img src="https://raw.githubusercontent.com/shsanek/shsanek/main/partical.png" alt="CHATLIST" width="400"/> 
 
