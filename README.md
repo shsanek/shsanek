@@ -1,4 +1,4 @@
-#### Hi welcome to my github. I am a swift developer. Below you can find interesting projects
+#### Hi welcome to my github. I am developing in the `swift` language.. Below you can find interesting projects
 
 
 ### MemesEditor [App Store](https://apps.apple.com/us/app/memes-editor/id6461216573)
