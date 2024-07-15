@@ -25,7 +25,7 @@ A wrapper for convenient work with shaders. Allows you to quickly experiment wit
 
 Simple 3d engine with built-in editor. Supported for skeletal animation and shadowmap. In development support for WAD files (Doom 1, 2) and grass on mesh-shaders.
 
-# BFASM [GitHub](https://github.com/shsanek/BFASM)
+### BFASM [GitHub](https://github.com/shsanek/BFASM)
 
 <img src="https://github.com/user-attachments/assets/a4c9a7e7-d7ab-4ee1-878a-05be4c025ab0" alt="INITIAL" width="200"/>
 
