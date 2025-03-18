@@ -1,13 +1,13 @@
 #### Hi welcome to my github. I am developing in the `swift` language.. Below you can find interesting projects
 
 
-### MemesEditor [App Store](https://apps.apple.com/us/app/memes-editor/id6461216573)
+### MemesEditor  [App Store unavailable](https://apps.apple.com/us/app/memes-editor/id6461216573) 
 
 <img src="https://raw.githubusercontent.com/shsanek/shsanek/main/mem1.png" alt="INITIAL" width="200"/> <img src="https://raw.githubusercontent.com/shsanek/shsanek/main/mem2.png" alt="CHATLIST" width="200"/> <img src="https://raw.githubusercontent.com/shsanek/shsanek/main/mem3.png" alt="CHAT" width="200"/>
 
 Video editor with the function of sending stickers to Telegram. The code will be published later.
 
-### Boollectricity [App Store](https://apps.apple.com/be/app/boollectricity/id1548302248)
+### Boollectricity [App Store unavailable](https://apps.apple.com/be/app/boollectricity/id1548302248)
 
 <img src="https://raw.githubusercontent.com/shsanek/shsanek/main/game1.png" alt="INITIAL" width="200"/> <img src="https://raw.githubusercontent.com/shsanek/shsanek/main/game2.png" alt="CHATLIST" width="200"/> <img src="https://raw.githubusercontent.com/shsanek/shsanek/main/game3.png" alt="CHAT" width="200"/>
 
@@ -55,6 +55,12 @@ Generated API for Telegram bots in Swift.
 
 Runtime Dependency Injection (DI).   
    - Obsolete with the release of Swift 5.9 requires a major upgrade
+
+### TuringComplete Save Description [GitHub](https://github.com/shsanek/TuringComplete-RiscV)
+
+[![Видео превью](https://img.youtube.com/vi/nAkqT8UcRKM/maxresdefault.jpg)](https://youtu.be/nAkqT8UcRKM)
+
+This is my save for the game TuringComplete. It features a processor built on the RISC-V architecture with a simplified bus system. Additionally, it includes a slightly modified version of Doom’s code from the repository [https://github.com/smunaut/doom_riscv](https://github.com/smunaut/doom_riscv) adapted to run on this system. The project is intended for entertaining and educational purposes and is not meant to be taken too seriously.
 
 ### Other projects here
 
